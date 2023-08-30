@@ -40,5 +40,7 @@ With the steps below, the project can be easily setup;
 
 ### Project Structure
 
+---
+
 The project has an entry and exit point with `before` and `after` hooks respectively created in the `cypress/support/e2e.js` file. In addition, the BDD structure used means that tests are triggered by the `.feature` file
 
